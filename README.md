@@ -18,8 +18,8 @@ A SwiftUI application that displays a list of Disney characters fetched from an 
 ## Project Structure
 
 ```plaintext
-DynamicListViewAsynAwait/
-├── DDynamicListViewAsynAwaitApp/         # Main app folder
+DynamicListViewAsyncAwait/
+├── DynamicListViewAsyncAwaitApp/         # Main app folder
 │   ├── Models/                  # Contains data models
 │   │   ├── DisneyModel.swift    # Model representing API response
 │   │   ├── DisneyCharacter.swift # Represents a Disney character
@@ -56,8 +56,8 @@ Swift 5.7+.
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/DynamicListViewAsynAwait.git
-cd DynamicListView-AsynAwait-SwiftUI
+git clone https://github.com/your-username/DynamicListViewAsyncAwait.git
+cd DynamicListViewAsyncAwait
 
 ```
 ---
@@ -65,7 +65,7 @@ cd DynamicListView-AsynAwait-SwiftUI
 2. Open the project in Xcode:
    
 ```
-   DynamicListViewAsynAwait.xcodeproj
+   DynamicListViewAsyncAwait.xcodeproj
 ```
 ---
 
