@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		7A77B9D52D40E85C00175595 /* APICallAsyncAwaitSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = APICallAsyncAwaitSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A77B9D52D40E85C00175595 /* DynamicListViewAsyncAwait.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DynamicListViewAsyncAwait.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		7A77B9D72D40E85C00175595 /* APICallAsyncAwaitSwiftUI */ = {
+		7A77B9D72D40E85C00175595 /* DynamicListViewAsyncAwait */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = APICallAsyncAwaitSwiftUI;
+			path = DynamicListViewAsyncAwait;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		7A77B9CC2D40E85C00175595 = {
 			isa = PBXGroup;
 			children = (
-				7A77B9D72D40E85C00175595 /* APICallAsyncAwaitSwiftUI */,
+				7A77B9D72D40E85C00175595 /* DynamicListViewAsyncAwait */,
 				7A77B9D62D40E85C00175595 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		7A77B9D62D40E85C00175595 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7A77B9D52D40E85C00175595 /* APICallAsyncAwaitSwiftUI.app */,
+				7A77B9D52D40E85C00175595 /* DynamicListViewAsyncAwait.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7A77B9D42D40E85C00175595 /* APICallAsyncAwaitSwiftUI */ = {
+		7A77B9D42D40E85C00175595 /* DynamicListViewAsyncAwait */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7A77B9E32D40E85D00175595 /* Build configuration list for PBXNativeTarget "APICallAsyncAwaitSwiftUI" */;
+			buildConfigurationList = 7A77B9E32D40E85D00175595 /* Build configuration list for PBXNativeTarget "DynamicListViewAsyncAwait" */;
 			buildPhases = (
 				7A77B9D12D40E85C00175595 /* Sources */,
 				7A77B9D22D40E85C00175595 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				7A77B9D72D40E85C00175595 /* APICallAsyncAwaitSwiftUI */,
+				7A77B9D72D40E85C00175595 /* DynamicListViewAsyncAwait */,
 			);
-			name = APICallAsyncAwaitSwiftUI;
+			name = DynamicListViewAsyncAwait;
 			packageProductDependencies = (
 			);
 			productName = APICallAsyncAwaitSwiftUI;
-			productReference = 7A77B9D52D40E85C00175595 /* APICallAsyncAwaitSwiftUI.app */;
+			productReference = 7A77B9D52D40E85C00175595 /* DynamicListViewAsyncAwait.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7A77B9D02D40E85C00175595 /* Build configuration list for PBXProject "APICallAsyncAwaitSwiftUI" */;
+			buildConfigurationList = 7A77B9D02D40E85C00175595 /* Build configuration list for PBXProject "DynamicListViewAsyncAwait" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7A77B9D42D40E85C00175595 /* APICallAsyncAwaitSwiftUI */,
+				7A77B9D42D40E85C00175595 /* DynamicListViewAsyncAwait */,
 			);
 		};
 /* End PBXProject section */
@@ -251,7 +251,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"APICallAsyncAwaitSwiftUI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"DynamicListViewAsyncAwait/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -279,7 +279,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"APICallAsyncAwaitSwiftUI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"DynamicListViewAsyncAwait/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -303,7 +303,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7A77B9D02D40E85C00175595 /* Build configuration list for PBXProject "APICallAsyncAwaitSwiftUI" */ = {
+		7A77B9D02D40E85C00175595 /* Build configuration list for PBXProject "DynamicListViewAsyncAwait" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7A77B9E12D40E85D00175595 /* Debug */,
@@ -312,7 +312,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7A77B9E32D40E85D00175595 /* Build configuration list for PBXNativeTarget "APICallAsyncAwaitSwiftUI" */ = {
+		7A77B9E32D40E85D00175595 /* Build configuration list for PBXNativeTarget "DynamicListViewAsyncAwait" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7A77B9E42D40E85D00175595 /* Debug */,
